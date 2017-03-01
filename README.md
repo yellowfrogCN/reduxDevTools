@@ -90,3 +90,5 @@ composeWithDevTools(
     <img src="./src/smile.png" width="100%">
 </p>
 
+# [更加详细的介绍，请参考](https://github.com/zalmoxisus/redux-devtools-extension)
+
