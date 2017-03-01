@@ -6,7 +6,7 @@
 * 概览
 
 <p align="center">
-    <img src="./src/state.gif" alt="截频演示" width="100%">
+    <img src="./src/state.avi" alt="截频演示" width="100%">
 </p>
 
 使用方法
